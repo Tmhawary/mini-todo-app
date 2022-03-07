@@ -1,3 +1,4 @@
+This Project is a Mini Todo App - React Typescript practice 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
