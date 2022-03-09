@@ -1,5 +1,5 @@
 import React, { FunctionComponent } from 'react'
-import { StyledCard } from './styles'
+import { StyledCard } from "./styles"
 import { CardWidget } from './types'
 
 export const Card: FunctionComponent<CardWidget> = ({
