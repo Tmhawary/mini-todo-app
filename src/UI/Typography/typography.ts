@@ -36,9 +36,8 @@ h3 {
     font-weight:${fontWeight.heavy} ;
 }
 p {
-    font-size:${fontScales.normal} ;
+    font-size:${fontScales.small} ;
     font-family:${fontNames.text} ;
-    font-style:italic ;
     font-weight:${fontWeight.normal} ;
 }
 
